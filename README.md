@@ -1,2 +1,2 @@
-# dinumt-tibanna-unofficial
-Explorative Repo for running dinumt on AWS
+# strling-docker
+Automated Docker containerization for STRling
